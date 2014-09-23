@@ -1,4 +1,4 @@
 ScholarlyCommons.github.io
 ==========================
 
-Scholarly Commons' homepage using GitHub Pages
+[Scholarly Commons'](http://library.illinois.edu/sc) homepage using GitHub Pages
